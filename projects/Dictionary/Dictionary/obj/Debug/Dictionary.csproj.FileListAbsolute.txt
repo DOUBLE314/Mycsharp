@@ -1,0 +1,8 @@
+c:\users\валерий\documents\visual studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+c:\users\валерий\documents\visual studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+c:\users\валерий\documents\visual studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+c:\users\валерий\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+c:\users\валерий\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+c:\users\валерий\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+c:\users\валерий\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+c:\users\валерий\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
