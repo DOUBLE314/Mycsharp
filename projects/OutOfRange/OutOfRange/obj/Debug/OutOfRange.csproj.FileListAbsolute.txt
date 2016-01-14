@@ -1,0 +1,5 @@
+c:\users\валерий\documents\visual studio 2015\Projects\OutOfRange\OutOfRange\bin\Debug\OutOfRange.exe.config
+c:\users\валерий\documents\visual studio 2015\Projects\OutOfRange\OutOfRange\bin\Debug\OutOfRange.exe
+c:\users\валерий\documents\visual studio 2015\Projects\OutOfRange\OutOfRange\bin\Debug\OutOfRange.pdb
+c:\users\валерий\documents\visual studio 2015\Projects\OutOfRange\OutOfRange\obj\Debug\OutOfRange.exe
+c:\users\валерий\documents\visual studio 2015\Projects\OutOfRange\OutOfRange\obj\Debug\OutOfRange.pdb
