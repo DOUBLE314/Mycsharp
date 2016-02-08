@@ -1,0 +1,6 @@
+c:\users\валерий\documents\visual studio 2015\Projects\DoWhile\DoWhile\bin\Debug\DoWhile.exe.config
+c:\users\валерий\documents\visual studio 2015\Projects\DoWhile\DoWhile\bin\Debug\DoWhile.exe
+c:\users\валерий\documents\visual studio 2015\Projects\DoWhile\DoWhile\bin\Debug\DoWhile.pdb
+c:\users\валерий\documents\visual studio 2015\Projects\DoWhile\DoWhile\obj\Debug\DoWhile.csprojResolveAssemblyReference.cache
+c:\users\валерий\documents\visual studio 2015\Projects\DoWhile\DoWhile\obj\Debug\DoWhile.exe
+c:\users\валерий\documents\visual studio 2015\Projects\DoWhile\DoWhile\obj\Debug\DoWhile.pdb
