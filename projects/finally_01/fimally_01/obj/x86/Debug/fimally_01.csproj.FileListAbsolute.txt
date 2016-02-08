@@ -1,0 +1,15 @@
+C:\Documents and Settings\tools\Мои документы\Visual Studio 2010\Projects\fimally_01\fimally_01\bin\Debug\fimally_01.exe
+C:\Documents and Settings\tools\Мои документы\Visual Studio 2010\Projects\fimally_01\fimally_01\bin\Debug\fimally_01.pdb
+C:\Documents and Settings\tools\Мои документы\Visual Studio 2010\Projects\fimally_01\fimally_01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tools\Мои документы\Visual Studio 2010\Projects\fimally_01\fimally_01\obj\x86\Debug\fimally_01.exe
+C:\Documents and Settings\tools\Мои документы\Visual Studio 2010\Projects\fimally_01\fimally_01\obj\x86\Debug\fimally_01.pdb
+C:\Users\bayes\Desktop\C#_10\Prim_2008\modu_3\fimally_01\fimally_01\obj\x86\Debug\fimally_01.exe
+C:\Users\bayes\Desktop\C#_10\Prim_2008\modu_3\fimally_01\fimally_01\obj\x86\Debug\fimally_01.pdb
+C:\Users\bayes\Desktop\C#_10\Prim_2008\modu_3\fimally_01\fimally_01\bin\Debug\fimally_01.exe
+C:\Users\bayes\Desktop\C#_10\Prim_2008\modu_3\fimally_01\fimally_01\bin\Debug\fimally_01.pdb
+C:\Users\bayes\Desktop\C#_10\Prim_2008\modu_3\fimally_01\fimally_01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Валерий\Documents\Visual Studio 2015\Projects\fimally_01\fimally_01\obj\x86\Debug\fimally_01.exe
+C:\Users\Валерий\Documents\Visual Studio 2015\Projects\fimally_01\fimally_01\obj\x86\Debug\fimally_01.pdb
+C:\Users\Валерий\Documents\Visual Studio 2015\Projects\fimally_01\fimally_01\bin\Debug\fimally_01.exe
+C:\Users\Валерий\Documents\Visual Studio 2015\Projects\fimally_01\fimally_01\bin\Debug\fimally_01.pdb
+C:\Users\Валерий\Documents\Visual Studio 2015\Projects\fimally_01\fimally_01\obj\x86\Debug\fimally_01.csprojResolveAssemblyReference.cache
