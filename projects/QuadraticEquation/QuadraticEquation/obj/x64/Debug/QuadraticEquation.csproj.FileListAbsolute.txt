@@ -1,0 +1,6 @@
+c:\users\валерий\documents\visual studio 2015\Projects\QuadraticEquation\QuadraticEquation\bin\x64\Debug\QuadraticEquation.exe.config
+c:\users\валерий\documents\visual studio 2015\Projects\QuadraticEquation\QuadraticEquation\bin\x64\Debug\QuadraticEquation.exe
+c:\users\валерий\documents\visual studio 2015\Projects\QuadraticEquation\QuadraticEquation\bin\x64\Debug\QuadraticEquation.pdb
+c:\users\валерий\documents\visual studio 2015\Projects\QuadraticEquation\QuadraticEquation\obj\x64\Debug\QuadraticEquation.exe
+c:\users\валерий\documents\visual studio 2015\Projects\QuadraticEquation\QuadraticEquation\obj\x64\Debug\QuadraticEquation.pdb
+c:\users\валерий\documents\visual studio 2015\Projects\QuadraticEquation\QuadraticEquation\obj\x64\Debug\QuadraticEquation.csprojResolveAssemblyReference.cache

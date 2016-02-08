@@ -1,0 +1,5 @@
+C:\Users\Валерий\Documents\Visual Studio 2015\Projects\QuadraticEquation\QuadraticEquation\bin\Release\QuadraticEquation.exe.config
+C:\Users\Валерий\Documents\Visual Studio 2015\Projects\QuadraticEquation\QuadraticEquation\bin\Release\QuadraticEquation.exe
+C:\Users\Валерий\Documents\Visual Studio 2015\Projects\QuadraticEquation\QuadraticEquation\bin\Release\QuadraticEquation.pdb
+C:\Users\Валерий\Documents\Visual Studio 2015\Projects\QuadraticEquation\QuadraticEquation\obj\Release\QuadraticEquation.exe
+C:\Users\Валерий\Documents\Visual Studio 2015\Projects\QuadraticEquation\QuadraticEquation\obj\Release\QuadraticEquation.pdb
