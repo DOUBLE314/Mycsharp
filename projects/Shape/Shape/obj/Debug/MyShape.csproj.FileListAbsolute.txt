@@ -1,0 +1,8 @@
+c:\users\валерий\documents\visual studio 2015\Projects\Shape\Shape\bin\Debug\Shape.exe.config
+c:\users\валерий\documents\visual studio 2015\Projects\Shape\Shape\bin\Debug\Shape.exe
+c:\users\валерий\documents\visual studio 2015\Projects\Shape\Shape\bin\Debug\Shape.pdb
+c:\users\валерий\documents\visual studio 2015\Projects\Shape\Shape\obj\Debug\Shape.exe
+c:\users\валерий\documents\visual studio 2015\Projects\Shape\Shape\obj\Debug\Shape.pdb
+C:\Users\Валерий\Documents\Visual Studio 2015\Projects\Shape\Shape\bin\Debug\Shape.exe.CodeAnalysisLog.xml
+C:\Users\Валерий\Documents\Visual Studio 2015\Projects\Shape\Shape\bin\Debug\Shape.exe.lastcodeanalysissucceeded
+C:\Users\Валерий\Documents\Visual Studio 2015\Projects\Shape\Shape\obj\Debug\MyShape.csprojResolveAssemblyReference.cache
