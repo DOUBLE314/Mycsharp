@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Palindrom">
+</Property><Property Name="Solution File" Value="C:\Users\bayes\Desktop\C#_10\Prim_2008\modu_3\Palindrom\Palindrom.sln">
+</Property><Property Name="Date" Value="5 декабря 2011 г.">
+</Property><Property Name="Time" Value="19:15">
+</Property></Properties><Event ErrorLevel="0" Project="Palindrom" Source="Palindrom\Palindrom.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Palindrom" Source="Palindrom\Palindrom.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Palindrom.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Palindrom.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Palindrom" Source="Palindrom\Palindrom.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

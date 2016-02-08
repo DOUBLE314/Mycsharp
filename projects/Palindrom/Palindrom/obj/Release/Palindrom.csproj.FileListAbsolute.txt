@@ -1,0 +1,12 @@
+C:\Documents and Settings\HP Compaq\Local Settings\Application Data\Temporary Projects\Palindrom\bin\Release\Palindrom.exe
+C:\Documents and Settings\HP Compaq\Local Settings\Application Data\Temporary Projects\Palindrom\bin\Release\Palindrom.pdb
+C:\Documents and Settings\HP Compaq\Local Settings\Application Data\Temporary Projects\Palindrom\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP Compaq\Local Settings\Application Data\Temporary Projects\Palindrom\obj\Release\Palindrom.exe
+C:\Documents and Settings\HP Compaq\Local Settings\Application Data\Temporary Projects\Palindrom\obj\Release\Palindrom.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for Studio_C#\Console_Course\MyConsoleC#\Prim_2008\Palindrom\Palindrom\obj\Release\Palindrom.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for Studio_C#\Console_Course\MyConsoleC#\Prim_2008\Palindrom\Palindrom\obj\Release\Palindrom.pdb
+C:\Users\bayes\Desktop\C#_10\Prim_2008\modu_3\Palindrom\Palindrom\obj\Release\Palindrom.exe
+C:\Users\bayes\Desktop\C#_10\Prim_2008\modu_3\Palindrom\Palindrom\obj\Release\Palindrom.pdb
+C:\Users\bayes\Desktop\C#_10\Prim_2008\modu_3\Palindrom\Palindrom\bin\Release\Palindrom.exe
+C:\Users\bayes\Desktop\C#_10\Prim_2008\modu_3\Palindrom\Palindrom\bin\Release\Palindrom.pdb
+C:\Users\bayes\Desktop\C#_10\Prim_2008\modu_3\Palindrom\Palindrom\obj\Release\ResolveAssemblyReference.cache
