@@ -1,0 +1,6 @@
+c:\users\валерий\documents\visual studio 2015\Projects\Hours\Hours\bin\Debug\Hours.exe.config
+c:\users\валерий\documents\visual studio 2015\Projects\Hours\Hours\bin\Debug\Hours.exe
+c:\users\валерий\documents\visual studio 2015\Projects\Hours\Hours\bin\Debug\Hours.pdb
+c:\users\валерий\documents\visual studio 2015\Projects\Hours\Hours\obj\Debug\Hours.csprojResolveAssemblyReference.cache
+c:\users\валерий\documents\visual studio 2015\Projects\Hours\Hours\obj\Debug\Hours.exe
+c:\users\валерий\documents\visual studio 2015\Projects\Hours\Hours\obj\Debug\Hours.pdb
