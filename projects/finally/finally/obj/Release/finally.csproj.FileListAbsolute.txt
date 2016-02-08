@@ -1,0 +1,5 @@
+C:\Users\bayes\Desktop\C#_10\Prim_2008\modu_3\finally\finally\bin\Release\finally.exe
+C:\Users\bayes\Desktop\C#_10\Prim_2008\modu_3\finally\finally\bin\Release\finally.pdb
+C:\Users\bayes\Desktop\C#_10\Prim_2008\modu_3\finally\finally\obj\Release\ResolveAssemblyReference.cache
+C:\Users\bayes\Desktop\C#_10\Prim_2008\modu_3\finally\finally\obj\Release\finally.exe
+C:\Users\bayes\Desktop\C#_10\Prim_2008\modu_3\finally\finally\obj\Release\finally.pdb
